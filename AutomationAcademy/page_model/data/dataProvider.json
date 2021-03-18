@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.saucedemo.com/",
+    "validUser": "standard_user",
+    "userPwd":"secret_sauce",
+    "invaliduserPwd":"secret_sauce23",
+    "firstName":"Automation",
+    "lastName":"Test",
+    "ZipCode":"23745"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "automationacademy",
+  "version": "1.0.0",
+  "description": "Automation Academy project",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome":"testcafe chrome ./page_model/test",
+    "test-all-fireFox":"testcafe firefox ./page_model/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JromoAutomator/Wizeline.git"
+  },
+  "author": "Jesus Romo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JromoAutomator/Wizeline/issues"
+  },
+  "homepage": "https://github.com/JromoAutomator/Wizeline#readme",
+  "dependencies": {}
+}
